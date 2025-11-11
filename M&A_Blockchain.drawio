@@ -111,8 +111,8 @@
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-12" value="使用區塊鏈技術、walrus、seal、Nautilus好處:&lt;div&gt;之後再唬爛就好&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1600" y="1510" width="340" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="J6W9cxTAXEH_6qU5ckGc-13" value="資料非常龐大怎麼辦" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="560" width="360" height="190" as="geometry" />
+        <mxCell id="J6W9cxTAXEH_6qU5ckGc-13" value="資料非常龐大怎麼辦?&lt;br&gt;hash?" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="720" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
