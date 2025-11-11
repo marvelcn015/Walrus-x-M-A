@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="第 1 页" id="HXYARZE-lRzLhIg3podr">
-    <mxGraphModel dx="1389" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,8 +93,8 @@
             <mxPoint x="1435" y="935" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J6W9cxTAXEH_6qU5ckGc-7" value="問題:上鏈的資料真偽，即是否真的發生過&lt;br&gt;目前解方:就是很多資料一起丟上鏈" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="410" width="360" height="190" as="geometry" />
+        <mxCell id="J6W9cxTAXEH_6qU5ckGc-7" value="問題:上鏈的資料真偽，即是否真的發生過&lt;br&gt;目前解方:就是很多資料一起丟上鏈&lt;br&gt;&lt;br&gt;這個可以再多想想" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="440" width="360" height="190" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=260;exitDy=65;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2PxqHMkBwpKGfe95gANC-11" target="J6W9cxTAXEH_6qU5ckGc-3">
           <mxGeometry relative="1" as="geometry" />
@@ -104,6 +104,9 @@
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-10" value="資料喂入" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1395" y="950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J6W9cxTAXEH_6qU5ckGc-11" value="&lt;div&gt;可用到Walrus, seal, xxx...&lt;/div&gt;這些資料需要:&lt;br&gt;只授權買方、賣方、審計方可以看&lt;br&gt;達標後(A最終付完30給T)，資料全銷毀&lt;div&gt;(我們先假設這些財務數據也會在A自己Server備份)&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(或收回T解密資料的權限就好，但先不要那麼複雜，畢竟之後A其實沒有誘因再把資料上鏈了)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1455" y="360" width="460" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
