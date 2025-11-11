@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram name="第 1 页" id="D92VTwjLSJRLZxcDQcrI">
+    <mxGraphModel dx="2564" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="89pGpWIsAmxhfesxL1Sc-1" target="89pGpWIsAmxhfesxL1Sc-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-1" value="被併購方&lt;div&gt;(賣方) T公司&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="89pGpWIsAmxhfesxL1Sc-2" target="89pGpWIsAmxhfesxL1Sc-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-2" value="併購方&lt;div&gt;(買方) A公司&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-3" value="假設T公司價值應該值100&lt;div&gt;但這是假設T公司未來可以達到某績效，才有這個價值&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;績效:EBITDA or 股價 or 營收&lt;br&gt;A公司不確定T公司是否真的未來能達到此績效&lt;/div&gt;&lt;div&gt;所以現在A只願意付70給T&lt;br&gt;若未來T真的能達到某績效，A再付30給T&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="410" width="370" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-8" value="公司控制權(經營權)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="334" y="720" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-10" value="初始對價70" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="600" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-14" value="權利" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-15" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="89pGpWIsAmxhfesxL1Sc-17" target="89pGpWIsAmxhfesxL1Sc-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-17" value="T交易財務數據&lt;div&gt;但現在T的所有決策都是A決定&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="1" vertex="1">
+          <mxGeometry x="760" y="900" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-18" value="資料" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="270" y="270" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-19" value="審計方" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="89pGpWIsAmxhfesxL1Sc-20" target="89pGpWIsAmxhfesxL1Sc-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-20" value="區塊鏈平台" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1220" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.499;entryY=0.124;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="89pGpWIsAmxhfesxL1Sc-2" target="89pGpWIsAmxhfesxL1Sc-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-22" value="買方A上鏈財務數據" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="710" y="1150" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.535;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="89pGpWIsAmxhfesxL1Sc-19" target="89pGpWIsAmxhfesxL1Sc-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-24" value="即時審計" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="490" y="1310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.105;entryY=0.52;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="89pGpWIsAmxhfesxL1Sc-1" target="89pGpWIsAmxhfesxL1Sc-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-26" value="也可隨時查驗&lt;br&gt;且知道資料上鏈後不會被偷改&lt;br&gt;&lt;br&gt;Earnout過程平均三、五年，其實很久" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="940" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-28" value="智能合約&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="1260" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-31" value="含? 是這樣寫嗎哈哈" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="1310" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-33" value="功能&lt;div&gt;1.A要給T的剩餘對價30先鎖進合約&lt;/div&gt;&lt;div&gt;2.累積KPI進度%數(隨著財務資訊的喂入)&lt;br&gt;3.達標後，A立刻支付給T&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="1300" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="89pGpWIsAmxhfesxL1Sc-36" value="智能合約&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="400" y="275" width="280" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
