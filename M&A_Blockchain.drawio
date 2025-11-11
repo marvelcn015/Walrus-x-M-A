@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="第 1 页" id="HXYARZE-lRzLhIg3podr">
-    <mxGraphModel dx="1226" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2084" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="2PxqHMkBwpKGfe95gANC-4" value="併購方&lt;div&gt;(買方) A公司&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2PxqHMkBwpKGfe95gANC-5" value="假設T公司價值應該值100&lt;div&gt;但這是假設T公司未來可以達到某績效，才有這個價值&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;績效:EBITDA or 股價 or 營收&lt;br&gt;A公司不確定T公司是否真的未來能達到此績效&lt;/div&gt;&lt;div&gt;所以現在A只願意付70給T&lt;br&gt;若未來T真的能達到某績效，A再付30給T&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2PxqHMkBwpKGfe95gANC-5" value="假設T公司價值應該值100&lt;div&gt;但這是假設T公司未來可以達到某績效，才有這個價值&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;績效:EBITDA or 股價 or 營收&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 此處先以營收這個最簡單的達標方式來用&lt;br&gt;A公司不確定T公司是否真的未來能達到此績效&lt;/div&gt;&lt;div&gt;所以現在A只願意付70給T&lt;br&gt;若未來T真的能達到某績效，A再付30給T&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="420" width="370" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2PxqHMkBwpKGfe95gANC-6" value="公司控制權(經營權)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -106,12 +106,12 @@
           <mxGeometry x="1520" y="910" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-11" value="&lt;div&gt;可用到Walrus, seal, nautilus, zkp?&lt;/div&gt;這些資料需要:&lt;br&gt;只授權買方、賣方、審計方可以看&lt;br&gt;達標後(A最終付完30給T)，資料全銷毀&lt;div&gt;(我們先假設這些財務數據也會在A自己Server備份)&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(或收回T解密資料的權限就好，但先不要那麼複雜，畢竟之後A其實沒有誘因再把資料上鏈了)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="20" width="460" height="190" as="geometry" />
+          <mxGeometry x="1540" y="100" width="460" height="190" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-12" value="使用區塊鏈技術、walrus、seal、Nautilus好處:&lt;div&gt;之後再唬爛就好&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1620" y="1730" width="340" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="J6W9cxTAXEH_6qU5ckGc-13" value="資料非常龐大怎麼辦?&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;把每日或每週交易文件打包成一個 blob；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;把 blob 的 Merkle root 錨定在鏈上；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;把 KPI 數據和哈希證據放入智能合約&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;文件要做成分錄，分錄要匯成總帳，總帳要做成報表，才有營收數字耶，這部分怎麼辦&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J6W9cxTAXEH_6qU5ckGc-13" value="資料非常龐大怎麼辦?&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;把每日或每週交易文件打包成一個 blob；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;把 blob 的 Merkle root 錨定在鏈上；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;把 KPI 數據和哈希證據放入智能合約&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;文件要做成分錄，分錄要匯成總帳，總帳要做成報表，才有營收數字耶，才能進智能合約跑kpi進度條啊，這部分怎麼辦&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1520" y="960" width="520" height="90" as="geometry" />
         </mxCell>
       </root>
