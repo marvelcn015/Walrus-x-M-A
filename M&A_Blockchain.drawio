@@ -160,7 +160,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-32" value="以上pdf存walrus?&lt;div&gt;walrus跟l1的關係到底怎麼互動的?&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4050" y="670" width="320" height="30" as="geometry" />
+          <mxGeometry x="4140" y="635" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-34" value="律師&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1350" width="120" height="60" as="geometry" />
@@ -172,22 +172,31 @@
           <mxGeometry x="1100" y="1330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-37" value="hash 一層一層包，確保營收這個數字是來源上面的?" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4025" y="740" width="360" height="30" as="geometry" />
+          <mxGeometry x="4135" y="750" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-38" value="&lt;span style=&quot;text-align: left;&quot;&gt;A要給T的剩餘對價30先鎖進合約&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="4770" y="1340" width="371" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="J6W9cxTAXEH_6qU5ckGc-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J6W9cxTAXEH_6qU5ckGc-39" target="J6W9cxTAXEH_6qU5ckGc-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-39" value="kpi定義&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;計算方式&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;任何修改須雙方多簽同意&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;會計政策(&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;例如折舊年數估計、存貨成本計價政策)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;這裡有點問題，應該不可能&lt;br&gt;只能折舊、成本分攤部分?&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="4770" y="1510" width="530" height="140" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-42" value="我要怎麼把這個淨利丟到智能合約?" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4080" y="860" width="360" height="30" as="geometry" />
+          <mxGeometry x="3860" y="960" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-43" value="達150，給錢&lt;br&gt;例子:一月50、二月90、三月-50、四月..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="5410" y="1510" width="420" height="140" as="geometry" />
+          <mxGeometry x="5410" y="1350" width="420" height="140" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J6W9cxTAXEH_6qU5ckGc-39" target="J6W9cxTAXEH_6qU5ckGc-43">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J6W9cxTAXEH_6qU5ckGc-46" value="怎麼提取初步淨利?用眼睛看?" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3810" y="740" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J6W9cxTAXEH_6qU5ckGc-47" value="&lt;div&gt;初始淨利進來&lt;/div&gt;成本:折舊說用幾年就幾年" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="5410" y="1580" width="420" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
