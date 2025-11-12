@@ -138,7 +138,7 @@
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="J6W9cxTAXEH_6qU5ckGc-22" target="J6W9cxTAXEH_6qU5ckGc-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J6W9cxTAXEH_6qU5ckGc-22" value="總帳" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontStyle=0;align=left;" vertex="1" parent="1">
+        <mxCell id="J6W9cxTAXEH_6qU5ckGc-22" value="加總成總帳" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontStyle=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="3787" y="470" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J6W9cxTAXEH_6qU5ckGc-19" target="J6W9cxTAXEH_6qU5ckGc-21">
@@ -172,7 +172,7 @@
           <mxGeometry x="1100" y="1330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-37" value="hash 一層一層包，確保營收這個數字是來源上面的?" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4135" y="750" width="360" height="30" as="geometry" />
+          <mxGeometry x="4110" y="675" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-38" value="&lt;span style=&quot;text-align: left;&quot;&gt;A要給T的剩餘對價30先鎖進合約&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="4770" y="1340" width="371" height="140" as="geometry" />
@@ -195,7 +195,7 @@
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-46" value="怎麼提取初步淨利?用眼睛看?" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3810" y="740" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J6W9cxTAXEH_6qU5ckGc-47" value="&lt;div&gt;初始淨利進來&lt;/div&gt;成本:折舊說用幾年就幾年" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="J6W9cxTAXEH_6qU5ckGc-47" value="&lt;div&gt;初始淨利進來&lt;/div&gt;成本:折舊說用幾年就幾年&lt;div&gt;成本怎麼分攤的?總部幾%之類的 當初說多少就多少&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="5410" y="1580" width="420" height="140" as="geometry" />
         </mxCell>
       </root>
