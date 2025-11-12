@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="第 1 页" id="HXYARZE-lRzLhIg3podr">
-    <mxGraphModel dx="1489" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1389" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,8 +16,8 @@
         <mxCell id="2PxqHMkBwpKGfe95gANC-4" value="併購方&lt;div&gt;(買方) A公司&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2PxqHMkBwpKGfe95gANC-5" value="假設T公司價值應該值100&lt;div&gt;但這是假設T公司未來可以達到某績效，才有這個價值&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;績效:EBITDA or 股價 or 營收&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 此處先以營收這個最簡單的達標方式來用&lt;br&gt;A公司不確定T公司是否真的未來能達到此績效&lt;/div&gt;&lt;div&gt;所以現在A只願意付70給T&lt;br&gt;若未來T真的能達到某績效，A再付30給T&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="630" y="420" width="370" height="140" as="geometry" />
+        <mxCell id="2PxqHMkBwpKGfe95gANC-5" value="假設T公司價值應該值100&lt;div&gt;但這是假設T公司未來可以達到某績效，才有這個價值&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;績效:EBITDA or 股價 or 營收&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 此處先以營收這個最簡單的達標方式來用&lt;br&gt;A公司不確定T公司是否真的未來能達到此績效&lt;/div&gt;&lt;div&gt;所以現在A只願意付70給T&lt;br&gt;若未來T真的能達到某績效，A再付30給T&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;若併經營團隊&lt;/div&gt;&lt;div&gt;隱含著買方怕被騙&lt;/div&gt;&lt;div&gt;這樣區塊鏈可以解決甚麼??&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="550" y="160" width="370" height="295" as="geometry" />
         </mxCell>
         <mxCell id="2PxqHMkBwpKGfe95gANC-6" value="公司控制權(經營權)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="614" y="690" width="160" height="50" as="geometry" />
@@ -26,16 +26,16 @@
           <mxGeometry x="610" y="570" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2PxqHMkBwpKGfe95gANC-8" value="權利" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="180" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2PxqHMkBwpKGfe95gANC-9" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2PxqHMkBwpKGfe95gANC-11" value="之後T仍會產生交易財務文件&lt;div&gt;但現在T的所有決策都由A決定&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="1" vertex="1">
           <mxGeometry x="1420" y="750" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2PxqHMkBwpKGfe95gANC-12" value="資料" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="550" y="240" width="80" height="100" as="geometry" />
+          <mxGeometry x="540" y="40" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2PxqHMkBwpKGfe95gANC-13" value="審計方" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="574" y="1240" width="120" height="60" as="geometry" />
@@ -80,13 +80,13 @@
           <mxGeometry x="4770" y="1690" width="560" height="160" as="geometry" />
         </mxCell>
         <mxCell id="2PxqHMkBwpKGfe95gANC-25" value="智能合約&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="680" y="245" width="280" height="70" as="geometry" />
+          <mxGeometry x="670" y="45" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-1" value="買賣交易(給第三方，即外部人)&lt;br&gt;涉及營收認列時點" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontStyle=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="3145" y="325" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-3" value="移轉訂價&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E8%B2%B7%E8%B3%A3%E4%BA%A4%E6%98%93(%E7%B5%A6%E7%AC%AC%E4%B8%89%E6%96%B9%EF%BC%8C%E5%8D%B3%E5%A4%96%E9%83%A8%E4%BA%BA)%22%20style%3D%22shape%3Dnote%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BbackgroundOutline%3D1%3BdarkOpacity%3D0.05%3BfontStyle%3D0%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221570%22%20y%3D%22780%22%20width%3D%22210%22%20height%3D%22100%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="3145" y="555" width="210" height="100" as="geometry" />
+          <mxGeometry x="3145" y="500" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-4" value="成本分攤" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="3145" y="675" width="210" height="100" as="geometry" />
@@ -114,14 +114,14 @@
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=132.5;exitDy=80;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J6W9cxTAXEH_6qU5ckGc-16" target="2PxqHMkBwpKGfe95gANC-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J6W9cxTAXEH_6qU5ckGc-16" value="只有每月營收金額要進智能合約" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="J6W9cxTAXEH_6qU5ckGc-16" value="只有每月初步淨利金額要進智能合約" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="3780" y="830" width="245" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-17" value="目前搞這條就好，下面應該來不及" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2910" y="330" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-18" value="金額數字" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="1010" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-19" value="交易文件&amp;nbsp;&lt;br&gt;請購單、訂單、驗收單、發票&lt;br&gt;&lt;br&gt;或直接交易紀錄上鏈啦" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontStyle=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="3787" y="160" width="210" height="100" as="geometry" />
@@ -144,7 +144,7 @@
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J6W9cxTAXEH_6qU5ckGc-19" target="J6W9cxTAXEH_6qU5ckGc-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J6W9cxTAXEH_6qU5ckGc-25" value="每月做報表" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontStyle=0;align=left;" vertex="1" parent="1">
+        <mxCell id="J6W9cxTAXEH_6qU5ckGc-25" value="每月做初步報表" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontStyle=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="3787" y="600" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=210;exitDy=65;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J6W9cxTAXEH_6qU5ckGc-1" target="J6W9cxTAXEH_6qU5ckGc-21">
@@ -177,8 +177,17 @@
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-38" value="&lt;span style=&quot;text-align: left;&quot;&gt;A要給T的剩餘對價30先鎖進合約&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="4770" y="1340" width="371" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="J6W9cxTAXEH_6qU5ckGc-39" value="kpi定義&lt;div&gt;計算方式&lt;/div&gt;&lt;div&gt;會計政策(&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;例如折舊年數估計、存貨成本計價政策)，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;任何修改須雙方多簽同意&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="J6W9cxTAXEH_6qU5ckGc-39" value="kpi定義&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;計算方式&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;任何修改須雙方多簽同意&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;會計政策(&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;例如折舊年數估計、存貨成本計價政策)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;這裡有點問題，應該不可能&lt;br&gt;只能折舊、成本分攤部分?&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="4770" y="1510" width="530" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="J6W9cxTAXEH_6qU5ckGc-42" value="我要怎麼把這個淨利丟到智能合約?" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4080" y="860" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J6W9cxTAXEH_6qU5ckGc-43" value="達150，給錢&lt;br&gt;例子:一月50、二月90、三月-50、四月..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="5410" y="1510" width="420" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="J6W9cxTAXEH_6qU5ckGc-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J6W9cxTAXEH_6qU5ckGc-39" target="J6W9cxTAXEH_6qU5ckGc-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
