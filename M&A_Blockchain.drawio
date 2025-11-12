@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="第 1 页" id="HXYARZE-lRzLhIg3podr">
-    <mxGraphModel dx="1303" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1895" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,7 +123,7 @@
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-18" value="金額數字" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="J6W9cxTAXEH_6qU5ckGc-19" value="交易文件&amp;nbsp;&lt;br&gt;請購單、訂單、驗收單、發票&lt;br&gt;銀行流水&lt;br&gt;&lt;br&gt;或直接交易紀錄上鏈啦" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontStyle=0;align=left;" vertex="1" parent="1">
+        <mxCell id="J6W9cxTAXEH_6qU5ckGc-19" value="交易文件&amp;nbsp;&lt;br&gt;請購單、訂單、驗收單、發票&lt;br&gt;銀行流水&lt;div&gt;稅單、稅報上鏈，少報可以被發現&lt;br&gt;&lt;br&gt;或直接交易紀錄上鏈啦&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontStyle=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="3787" y="160" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=210;exitDy=65;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J6W9cxTAXEH_6qU5ckGc-1" target="J6W9cxTAXEH_6qU5ckGc-19">
