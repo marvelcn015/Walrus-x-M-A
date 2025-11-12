@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="第 1 页" id="HXYARZE-lRzLhIg3podr">
-    <mxGraphModel dx="1895" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2605" dy="1405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,7 +180,7 @@
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J6W9cxTAXEH_6qU5ckGc-39" target="J6W9cxTAXEH_6qU5ckGc-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J6W9cxTAXEH_6qU5ckGc-39" value="kpi定義&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;計算方式&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;任何修改須雙方多簽同意&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;會計政策(&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;例如折舊年數估計、存貨成本計價政策)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;這裡有點問題，應該不可能&lt;br&gt;只能折舊、成本分攤部分?&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="J6W9cxTAXEH_6qU5ckGc-39" value="kpi定義&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;計算方式&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;任何修改須雙方多簽同意&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;要改邏輯 就重新佈署&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;會計政策(&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;例如折舊年數估計、存貨成本計價政策)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;這裡有點問題，應該不可能&lt;br&gt;只能折舊、成本分攤部分?&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="4770" y="1510" width="530" height="140" as="geometry" />
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-42" value="我要怎麼把這個淨利丟到智能合約?" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
@@ -197,6 +197,9 @@
         </mxCell>
         <mxCell id="J6W9cxTAXEH_6qU5ckGc-47" value="&lt;div&gt;初始淨利進來&lt;/div&gt;成本:折舊說用幾年就幾年&lt;div&gt;成本怎麼分攤的?總部幾%之類的 當初說多少就多少&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="5410" y="1580" width="420" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="J6W9cxTAXEH_6qU5ckGc-50" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;第三方信用風險，用共識機制&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;-不能竄改&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;成本:區塊鏈只要gas fee，但三方&lt;br&gt;&lt;br&gt;為甚麼要用sui&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4500" y="292.5" width="290" height="187.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
