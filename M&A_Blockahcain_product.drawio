@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="第 1 页" id="gf6L4sEndOk4nzIaACF0">
-    <mxGraphModel dx="2130" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="A86tYXBbO-KoowhORhet-1" value="銷貨統一發票存根聯&lt;br&gt;(賣方原本自己會留存一份副本)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="470" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A86tYXBbO-KoowhORhet-2" value="銷貨發生&lt;br&gt;一個月上一次" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A86tYXBbO-KoowhORhet-2" value="銷貨發生&lt;br&gt;買方&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;一個月上一次&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="140" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A86tYXBbO-KoowhORhet-3" target="A86tYXBbO-KoowhORhet-9">
@@ -34,13 +34,13 @@
         <mxCell id="A86tYXBbO-KoowhORhet-5" value="分錄&lt;div&gt;借:銷貨收入&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;貸:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;現金&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="724" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A86tYXBbO-KoowhORhet-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="A86tYXBbO-KoowhORhet-6">
+        <mxCell id="A86tYXBbO-KoowhORhet-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="A86tYXBbO-KoowhORhet-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="500" as="targetPoint" />
+            <mxPoint x="389.3333333333335" y="910.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-6" value="審計方簽名&lt;br&gt;簽這整包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="972" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A86tYXBbO-KoowhORhet-8" target="A86tYXBbO-KoowhORhet-9">
           <mxGeometry relative="1" as="geometry" />
@@ -87,8 +87,8 @@
         <mxCell id="A86tYXBbO-KoowhORhet-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A86tYXBbO-KoowhORhet-34" target="A86tYXBbO-KoowhORhet-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A86tYXBbO-KoowhORhet-34" value="進去累積kpi進度%&lt;br&gt;150達標" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2085" y="1520" width="120" height="60" as="geometry" />
+        <mxCell id="A86tYXBbO-KoowhORhet-34" value="進去累積kpi進度%&lt;br&gt;150達標&lt;br&gt;時間達到若沒達標 錢還回買方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2027.5" y="1530" width="235" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-37" value="達標付錢" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2085" y="1680" width="120" height="60" as="geometry" />
@@ -102,11 +102,14 @@
         <mxCell id="A86tYXBbO-KoowhORhet-41" value="授權四方:買、賣、會計師、律師&lt;br&gt;文件全加密，只能以上四方看到&lt;br&gt;四方都有錢包" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="120" width="350" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="A86tYXBbO-KoowhORhet-42" value="&lt;div&gt;前端&lt;/div&gt;&lt;div&gt;但前端部分 其實目前需求好像只有&amp;nbsp;&lt;/div&gt;&lt;div&gt;-要四個頁面，因為有四方&amp;nbsp;&lt;/div&gt;&lt;div&gt;-買方要有上傳資料的地方&amp;nbsp;&lt;/div&gt;&lt;div&gt;-審計方要有簽名的地方&amp;nbsp;&lt;/div&gt;&lt;div&gt;-賣方要有可以查看文件的地方(查看買方上傳到walrus的那些文件)&amp;nbsp;&lt;/div&gt;&lt;div&gt;-然後達標賣方要看到真的收到款&amp;nbsp;&lt;/div&gt;&lt;div&gt;-律師方也是要有可以看到文件的地方&lt;br&gt;&lt;br&gt;要有儀表板看達標進度&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="1130" width="430" height="190" as="geometry" />
+        <mxCell id="A86tYXBbO-KoowhORhet-42" value="&lt;div&gt;前端&lt;/div&gt;&lt;div&gt;但前端部分 其實目前需求好像只有&amp;nbsp;&lt;/div&gt;&lt;div&gt;-要三個頁面，因為有三方&amp;nbsp;&lt;/div&gt;&lt;div&gt;-買方要有上傳資料的地方&amp;nbsp;&lt;/div&gt;&lt;div&gt;-審計方要有簽名的地方?&amp;nbsp;&lt;/div&gt;&lt;div&gt;-賣方要有可以查看文件的地方(查看買方上傳到walrus的那些文件)&amp;nbsp;&lt;/div&gt;&lt;div&gt;-然後達標賣方要看到真的收到款&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;要有儀表板看達標進度&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="1300" width="430" height="190" as="geometry" />
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-45" value="文件鏈下審，不然會多儲存一份很亂" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-72.5" y="987" width="315" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A86tYXBbO-KoowhORhet-47" value="併購合約規則先寫成智能合約" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="30" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
