@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="第 1 页" id="gf6L4sEndOk4nzIaACF0">
-    <mxGraphModel dx="2430" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1629" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-6" value="審計方簽名&lt;br&gt;簽這整包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="949" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="972" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A86tYXBbO-KoowhORhet-8" target="A86tYXBbO-KoowhORhet-9">
           <mxGeometry relative="1" as="geometry" />
@@ -52,7 +52,7 @@
           <mxGeometry x="730" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-17" value="我要從分錄數字按類別加總，做成總帳&lt;div&gt;銷貨收入 共 $xxx&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;說明(這給我看的):理論來說會有很多項目，但這裡先列一個好了&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1945" y="610" width="410" height="141" as="geometry" />
+          <mxGeometry x="1947.5" y="690" width="410" height="141" as="geometry" />
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A86tYXBbO-KoowhORhet-18" target="A86tYXBbO-KoowhORhet-9">
           <mxGeometry relative="1" as="geometry" />
@@ -67,10 +67,10 @@
           <mxGeometry x="1760" y="1610" width="345" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-27" value="減掉:折舊費用&lt;div&gt;(就是減一個數字就好)&lt;br&gt;但公式要寫出來:500萬/10=xxx，因為我要讓賣方看到一開始說好的500、10沒被改掉&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;說明(這給我看的):一開始說好已存在機器用10年折舊，要防止買方之後用3年&lt;br&gt;若有新進機器，憑證也要上walrus==，成本、年數都公開&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1855" y="800" width="580" height="110" as="geometry" />
+          <mxGeometry x="1865" y="900" width="580" height="110" as="geometry" />
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-28" value="減掉:薪資費用&lt;div&gt;人數*薪資*每年漲幅%&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;說明:這是不是憑證也要上鏈?這些是參數吧，因為不能寫死啊&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1967.5" y="955" width="370" height="60" as="geometry" />
+          <mxGeometry x="1970" y="1032" width="370" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -97,13 +97,13 @@
           <mxGeometry x="2180" y="1410" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-40" value="減掉:成本分攤&lt;div&gt;總部成本*10%&lt;br&gt;&lt;br&gt;說明:這些參數就要憑證啊&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1955" y="1060" width="395" height="60" as="geometry" />
+          <mxGeometry x="1955" y="1140" width="395" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-41" value="授權四方:買、賣、會計師、律師&lt;br&gt;文件全加密，只能以上四方看到&lt;br&gt;四方都有錢包" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="120" width="350" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="A86tYXBbO-KoowhORhet-42" value="四個頁面" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1280" width="60" height="30" as="geometry" />
+        <mxCell id="A86tYXBbO-KoowhORhet-42" value="四個頁面&lt;br&gt;&lt;br&gt;&lt;div&gt;買方上傳資料&lt;br&gt;審計方要簽名&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="1130" width="310" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
