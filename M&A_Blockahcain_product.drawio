@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="第 1 页" id="gf6L4sEndOk4nzIaACF0">
-    <mxGraphModel dx="1323" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1819" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,10 +106,13 @@
           <mxGeometry x="-30" y="1300" width="430" height="190" as="geometry" />
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-45" value="文件鏈下審，不然會多儲存一份很亂" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-72.5" y="987" width="315" height="30" as="geometry" />
+          <mxGeometry x="40" y="960" width="315" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-47" value="併購合約規則先寫成智能合約" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="30" width="270" height="30" as="geometry" />
+          <mxGeometry x="85" y="30" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A86tYXBbO-KoowhORhet-48" value="seal 讓需要的人才能讀取，上鏈前加密" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="554" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
