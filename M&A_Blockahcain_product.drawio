@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="第 1 页" id="gf6L4sEndOk4nzIaACF0">
-    <mxGraphModel dx="2130" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1774" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,7 @@
         <mxCell id="A86tYXBbO-KoowhORhet-42" value="&lt;div&gt;前端&lt;/div&gt;&lt;div&gt;但前端部分 其實目前需求好像只有&amp;nbsp;&lt;/div&gt;&lt;div&gt;-要三個頁面，因為有三方&amp;nbsp;&lt;/div&gt;&lt;div&gt;-買方要有上傳資料的地方&amp;nbsp;&lt;/div&gt;&lt;div&gt;-審計方要有簽名的地方?&amp;nbsp;&lt;/div&gt;&lt;div&gt;-賣方要有可以查看文件的地方(查看買方上傳到walrus的那些文件)&amp;nbsp;&lt;/div&gt;&lt;div&gt;-然後達標賣方要看到真的收到款&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;要有儀表板看達標進度&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-30" y="1300" width="430" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="A86tYXBbO-KoowhORhet-45" value="文件鏈下審完，再上walrus，不然會多儲存一份很亂" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A86tYXBbO-KoowhORhet-45" value="說明(這給我看的，技術不用管):文件鏈下審完，再上walrus，不然會多儲存一份很亂" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="1055" width="315" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-47" value="併購合約規則先寫成智能合約，具體就是右半邊那些要減的數字" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
