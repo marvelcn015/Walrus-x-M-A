@@ -121,17 +121,20 @@
         <mxCell id="6MK8ELIpscGF3VE0hGwT-3" value="總部成本報表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6MK8ELIpscGF3VE0hGwT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.002;entryY=0.518;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A86tYXBbO-KoowhORhet-6" target="6MK8ELIpscGF3VE0hGwT-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6MK8ELIpscGF3VE0hGwT-14" value="提取數字上鏈" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1350" y="710" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6MK8ELIpscGF3VE0hGwT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.002;entryY=0.518;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A86tYXBbO-KoowhORhet-6" target="6MK8ELIpscGF3VE0hGwT-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6MK8ELIpscGF3VE0hGwT-15" value="提取數字上鏈" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1390" y="1010" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6MK8ELIpscGF3VE0hGwT-16" value="提取數字上鏈" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1390" y="1110" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6MK8ELIpscGF3VE0hGwT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.996;entryY=0.134;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A86tYXBbO-KoowhORhet-6" target="6MK8ELIpscGF3VE0hGwT-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
