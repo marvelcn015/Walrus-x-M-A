@@ -76,8 +76,8 @@
         <mxCell id="A86tYXBbO-KoowhORhet-18" value="銀行流水紀錄pdf" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A86tYXBbO-KoowhORhet-26" value="&lt;span style=&quot;text-align: left;&quot;&gt;A要給T的剩餘對價$30一開始先鎖進合約&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2370" y="1360" width="345" height="60" as="geometry" />
+        <mxCell id="A86tYXBbO-KoowhORhet-26" value="&lt;span style=&quot;text-align: left;&quot;&gt;A要給T的剩餘對價$30一開始先鎖進合約&lt;br&gt;&lt;br&gt;說明:確保買方不會到最後付不出錢&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;因為有想到這筆錢的流動性問題，但先鎖進去，雙方都才能有保障&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2210" y="1360" width="432.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-27" value="&lt;div&gt;A機器、B機器分別計算折舊費用&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A:XXX/10=XXXa&lt;/div&gt;&lt;div&gt;B:XXX/15=XXXb&lt;/div&gt;&lt;div&gt;XXXa+XXXb=XXXd&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;說明(這給我看的):一開始說好已存在機器用10年、15年折舊，要防止買方之後用3年&lt;br&gt;若有新進機器，憑證也要上walrus==，成本、年數都公開&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2500" y="354" width="580" height="181" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="2608.75" y="1280" width="292.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-37" value="達標，錢給賣方錢包" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2695" y="1430" width="120" height="60" as="geometry" />
+          <mxGeometry x="2695" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-39" value="&lt;span style=&quot;text-align: left;&quot;&gt;自動偵測異常，若數據與趨勢或合理區間差異小於，系統暫停上鏈、觸發人工複核&lt;br&gt;小於40 or 之前鏈上歷史數據平均*2.5sigma&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2790" y="1160" width="550" height="60" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry x="380" y="380" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A86tYXBbO-KoowhORhet-50" value="5年過了卻未累積到150&lt;div&gt;錢還回買方錢包&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2840" y="1430" width="200" height="60" as="geometry" />
+          <mxGeometry x="2860" y="1650" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6MK8ELIpscGF3VE0hGwT-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6MK8ELIpscGF3VE0hGwT-3" target="A86tYXBbO-KoowhORhet-9">
           <mxGeometry relative="1" as="geometry">
